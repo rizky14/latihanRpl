@@ -17,6 +17,7 @@ public class LatihanRpl {
     public static void main(String[] args) {
         // TODO code application logic here
        System.out.println("Selamat Datang di Unikom");
+       System.out.println("Kampus Universitas Komputer Indonesia");
     }
     
 }
